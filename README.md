@@ -31,14 +31,14 @@ Facts about me
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abulnes16&layout=compact&count_private=true" />
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abulnes16&layout=compact&count_private=true&theme=vue-dark" />
 </a>
 </p>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abulnes16" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abulnes16&theme=vue-dark" />
 </a>
 </p>
 
