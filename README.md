@@ -26,8 +26,6 @@ Facts about me
 <a href="https://medium.com/@abulnes16" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white?style=for-the-badge" /></a> 
 <a href="https://www.youtube.com/c/MacaoTech/videos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a> 
 
-
-<br/>
 <br/>
 
 <p align='center'>
