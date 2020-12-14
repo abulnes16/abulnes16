@@ -7,6 +7,7 @@ Facts about me
 - :pencil: I like learning a lot 
 - :handshake: I'm learning to build communities.
 - :honduras: I'm from Honduras 
+- :man_technologist: I love frontend development
 - :fireworks: New year goal: Start contributing in open source.
 - :video_game: Fun fact: I love videogames and talking about technology.
 
@@ -33,7 +34,13 @@ Facts about me
 </a>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abulnes16)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abulnes16" />
+</a>
+</p>
+
 
 
 
