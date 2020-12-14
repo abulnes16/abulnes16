@@ -12,13 +12,14 @@ Facts about me
 - :video_game: Fun fact: I love videogames and talking about technology.
 
 **You can contact me on** :iphone:
-<p><a href="https://twitter.com/abulnes16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<p align="center">
+<a href="https://twitter.com/abulnes16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> 
 <a href="https://www.linkedin.com/in/angel-bulnes16/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
+</p>
 
 **Content created for me and friends :computer:**
-<p>
+<p align="center">
 <a href="https://medium.com/@abulnes16" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white?style=for-the-badge" /></a> 
 <a href="https://www.youtube.com/c/MacaoTech/videos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a> 
 
