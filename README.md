@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there, I'm Angel (abulnes16) 👋 </h1>
 
-<h3 align="center"> I'm a software developer and math student 💻</h3>
+<h3 align="center"> I'm a Software Engineer 💻</h3>
 
 Facts about me
 
 - :pencil: I like learning a lot 
-- :handshake: I'm learning to build communities.
+- :handshake: I'm organize and participate in different communities
 - :honduras: I'm from Honduras 
-- :man_technologist: I love frontend development
+- :man_technologist: I love mobile development
 - :fireworks: New year goal: Start contributing in open source.
 - :video_game: Fun fact: I love videogames and talking about technology.
 
